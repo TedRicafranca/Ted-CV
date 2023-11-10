@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ted-CV/static/css/main.5f747783.css",
-    "main.js": "/Ted-CV/static/js/main.b161ba15.js",
+    "main.js": "/Ted-CV/static/js/main.7ba7fa6c.js",
     "static/media/android.png": "/Ted-CV/static/media/android.8a81ac4da2816855eac7.png",
     "static/media/tailwind.png": "/Ted-CV/static/media/tailwind.fb84ace95bb919daa678.png",
     "static/media/bootstrap.png": "/Ted-CV/static/media/bootstrap.d5210cdeab1bc94309c4.png",
@@ -16,10 +16,10 @@
     "static/media/mysql.png": "/Ted-CV/static/media/mysql.4676ad983d6bd3e9fac9.png",
     "index.html": "/Ted-CV/index.html",
     "main.5f747783.css.map": "/Ted-CV/static/css/main.5f747783.css.map",
-    "main.b161ba15.js.map": "/Ted-CV/static/js/main.b161ba15.js.map"
+    "main.7ba7fa6c.js.map": "/Ted-CV/static/js/main.7ba7fa6c.js.map"
   },
   "entrypoints": [
     "static/css/main.5f747783.css",
-    "static/js/main.b161ba15.js"
+    "static/js/main.7ba7fa6c.js"
   ]
 }
